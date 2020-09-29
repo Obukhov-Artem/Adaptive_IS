@@ -6,3 +6,5 @@ Algorithm of adaptation of electronic document management system based on machin
 https://link.springer.com/article/10.1007%2Fs13748-020-00214-2
 
 Проект посвящен применению и интеграции модулей адаптации на основе нейросетевых технологий для автоматизации интерфейса информационных систем. 
+Демо версия проекта размещена здесь 
+http://expsed.ch1ppyone.xyz/
